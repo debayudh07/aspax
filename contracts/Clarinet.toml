@@ -4,9 +4,12 @@ authors = []
 description = ""
 telemetry = true
 requirements = []
-[contracts.counter]
-path = "contracts/counter.clar"
+
+[contracts.Funding]
+path = "contracts/Funding.clar"
 depends_on = []
+
+
 
 [repl]
 costs_version = 2
